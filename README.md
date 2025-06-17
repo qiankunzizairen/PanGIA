@@ -88,5 +88,3 @@ python main.py
 ```
 Due to the high memory/GPU usage of the network, please pass parameters when running main.py to control the network size according to your own computational resources.
 
-**Note:** Due to the large size of the dataset, which exceeds GitHub's upload limit, the data are provided via an external link:  
-[https://drive.google.com/drive/folders/1KhwwvnSsRZNpuDv1SJjNkrTRHXQ2EUsM?usp=drive_link](https://drive.google.com/drive/folders/1KhwwvnSsRZNpuDv1SJjNkrTRHXQ2EUsM?usp=drive_link)
