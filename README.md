@@ -79,10 +79,8 @@ The output includes:
   - padded k-mer ID sequences
   - segment-to-sequence mapping
   
-Perform 5-fold cross-validation：
-```bash
-python gen_fold.py
-```
+Run the programs in the `build dataset` folder sequentially to generate the cross-validation dataset.
+
 ### 2.Model Training
 Use the processed similarity matrices and datasets to train the model:
 ```bash
