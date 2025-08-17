@@ -2,7 +2,7 @@
 
 PanGIA is a deep learning model for predicting ncRNA-disease associations.
 ## Model Architecture
-![](PanGIA/architecture.png)
+![](PanGIA/architecture.svg)
 
 ## Installation
 ```bash
