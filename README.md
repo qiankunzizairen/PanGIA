@@ -90,5 +90,5 @@ Due to the high memory/GPU usage of the network, please pass parameters when run
 
 ## Contact Information
 
-For any questions regarding the code or data, please contact [qiankunzizairen@163.com].
+For any questions regarding the code or data, please contact qiankunzizairen@163.com.
 
