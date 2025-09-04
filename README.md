@@ -88,3 +88,7 @@ python main.py
 ```
 Due to the high memory/GPU usage of the network, please pass parameters when running main.py to control the network size according to your own computational resources.
 
+## Contact Information
+
+For any questions regarding the code or data, please contact [qiankunzizairen@163.com].
+
