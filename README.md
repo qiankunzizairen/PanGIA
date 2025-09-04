@@ -11,7 +11,7 @@ conda activate pangia
 pip install -r requirements.txt
 ```
 
-## Prepare Datasets
+## Source of Original Data
 The raw data can be downloaded from the following sources:
 - **miRNA**: The associations between miRNAs and diseases were obtained from the HMDD v4.0 database, while the sequence information of miRNAs was retrieved from the miRBase database.
 
