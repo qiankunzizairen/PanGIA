@@ -21,7 +21,7 @@ The raw data can be downloaded from the following sources:
 
 - **Disease**: This study utilizes Disease Ontology Identifiers (DOIDs) to construct the disease similarity matrix, with corresponding information obtained from the Disease Ontology database.
 
-These data are also organized in the ./data folder.
+These data are also available on our [OSF project page](https://osf.io/532ea).
 
 ## Contact Information
 
